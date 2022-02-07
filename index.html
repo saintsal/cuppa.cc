@@ -38,6 +38,20 @@ a#cta {
   transition: background-color 1s linear;
 }
 
+/* Smaller than phablet */
+@media (min-width: 950px) {
+  a#cta {
+    position: fixed;
+    z-index: 1;
+    top: unset;
+    bottom: 20;
+    right: 20;
+    left: 20;
+    text-align: center;
+    font-size: 1em;
+  }
+}
+
 a#cta.highlight {
   background-color: #ffd18d7d;
 }
@@ -95,11 +109,11 @@ canvas {
 // Drawing with text. Ported from Generative Design book by the amazing Tim Holman - http://www.generative-gestaltung.de - Original licence: http://www.apache.org/licenses/LICENSE-2.0
 
 // Application variables
-var position = {x: 0, y: window.clientHeight/2};
+var position = {x: 0, y: window.innerHeight/2};
 var counter = 0;
 var minFontSize = 20;
 var angleDistortion = 0;
-var letters = " Teamwork doesn't really happen in neat circles and connecting lines.  And we're all still unlearning our centralised structures.  We're building a protocol that will open up a new era in decentralised collaboration.  Something that let's people get to work permissionlessly, and connect around shared goals easily. Flexible.  Peer to peer. Inclusive. Letting organisational shapes emerge as needed, and revealing them to all. ";
+var letters = " Collaboration is messy. It needs sparks and signals. It needs to choose it's own structure.  We're building a protocol for truly decentralised work. Truly permissionless. Flexible, allowing for ephemeral groups to choose only the structures that work for them.  Letting organisational shapes emerge as needed, and revealing them to all. Like making a cuppa tea. Fancy one?";
 
 // Drawing variables
 var canvas;
@@ -113,7 +127,6 @@ function init() {
   canvas.height = window.innerHeight;
   canvas.height = document.body.clientHeight;
 
-  console.log(window.innerHeight,  document.body.clientHeight);
   
   canvas.addEventListener('mousemove', mouseMove, false);
   canvas.addEventListener('touchmove', mouseMove, false);
