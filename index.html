@@ -32,13 +32,13 @@ span {
   opacity: 1;
   transition: opacity 2s linear;
   transition-delay: 6s;
-    animation-name: fadeIn;
-    -webkit-animation-name: fadeIn; 
-    animation-duration: 1.5s;   
-    -webkit-animation-duration: 1.5s;
-    animation-timing-function: ease-in-out; 
-    -webkit-animation-timing-function: ease-in-out;     
-    visibility: visible !important; 
+  animation-name: fadeIn;
+  -webkit-animation-name: fadeIn; 
+  animation-duration: 1.5s;   
+  -webkit-animation-duration: 1.5s;
+  animation-timing-function: ease-in-out; 
+  -webkit-animation-timing-function: ease-in-out;     
+  visibility: visible !important; 
 }
 
 .fade {
@@ -51,94 +51,94 @@ span {
   transition: opacity 2s linear;
 }
 
-    @keyframes fadeIn {
-      0% {
-        opacity: 0.0;
+      @keyframes fadeIn {
+        0% {
+          opacity: 0.0;
+        }
+        70% {
+          opacity: 0.2;
+        }
+        100% {
+          opacity: 1;
+        }
       }
-      70% {
-        opacity: 0.2;
+
+      @-webkit-keyframes fadeIn {
+        0% {
+          opacity: 0.0;
+        }
+        70% {
+          opacity: 0.2;
+        }
+        100% {
+          opacity: 1;
+        }
       }
-      100% {
+
+      #intro, #outro {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 90vw;
+        max-width: 400px;
+        height: 400px;
+        margin: auto;
+        text-align: center;
+      }
+
+
+      #intro{
+        z-index: -1;
+      }
+
+
+      #outro {
+        z-index: 1;
+        display: none;
+        opacity: 0;
+        -webkit-touch-callout: none; /* iOS Safari */
+        -webkit-user-select: none; /* Safari */
+        -khtml-user-select: none; /* Konqueror HTML */
+        -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+        user-select: none; /* Non-prefixed version, currently
+                              supported by Chrome, Edge, Opera and Firefox */
+
+      }
+
+      #outro.highlight {
         opacity: 1;
+        display: block;
+
       }
-    }
 
-    @-webkit-keyframes fadeIn {
-      0% {
-        opacity: 0.0;
+      .logo {
+        width: 100px;
       }
-      70% {
-        opacity: 0.2;
+
+      a#cta {
+        z-index: 1;
+        font-size: 2em;
+        background: #fff;
+        padding: 30px 30px 60px 30px;
       }
-      100% {
-        opacity: 1;
+      a#cta.highlight {
+        background-color: #ffd18d7d;
       }
-    }
 
-#intro, #outro {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 90vw;
-  max-width: 400px;
-  height: 400px;
-  margin: auto;
-  text-align: center;
-}
-
-
-  #intro{
-  z-index: -1;
-}
-
-
-  #outro {
-    z-index: 1;
-    display: none;
-    opacity: 0;
-    -webkit-touch-callout: none; /* iOS Safari */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Old versions of Firefox */
-    -ms-user-select: none; /* Internet Explorer/Edge */
-    user-select: none; /* Non-prefixed version, currently
-                          supported by Chrome, Edge, Opera and Firefox */
-
-  }
-
-  #outro.highlight {
-    opacity: 1;
-    display: block;
-
-  }
-
-  .logo {
-    width: 100px;
-  }
-
-  a#cta {
-    z-index: 1;
-    font-size: 2em;
-    background: #fff;
-    padding: 30px 30px 60px 30px;
-  }
-  a#cta.highlight {
-    background-color: #ffd18d7d;
-  }
-
-  canvas {
-    cursor: crosshair;
-    z-index: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%; 
-  }
+      canvas {
+        cursor: crosshair;
+        z-index: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%; 
+      }
 
   </style>
 
@@ -289,4 +289,25 @@ span {
 
       init();
     </script>
+
+    <!-- Start Open Web Analytics Tracker -->
+    <script type="text/javascript">
+      //<![CDATA[
+      var owa_baseUrl = 'https://light.msg.gdn/';
+      var owa_cmds = owa_cmds || [];
+      owa_cmds.push(['setSiteId', 'b4c41d771e7c9c1de05110703d91414f']);
+      owa_cmds.push(['trackPageView']);
+      owa_cmds.push(['trackClicks']);
+
+      (function() {
+              var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
+              owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
+              _owa.src = owa_baseUrl + 'modules/base/js/owa.tracker-combined-min.js';
+              var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
+            }());
+      //]]>
+    </script>
+    <!-- End Open Web Analytics Code -->
+
+
   </body>
