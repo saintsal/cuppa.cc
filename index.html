@@ -220,11 +220,22 @@ span {
 
                       if (d > stepSize) {
                               var angle = Math.atan2(mouse.y-position.y, mouse.x-position.x);
+                              var color = `hsl(
+                                      ${Math.floor((3 * counter) % 255)},
+                                      50%, 20%
+                                                      )`;
+                                /*
+                                "#" +(counter % 16 * 10).toString(16) + 
+                                +(counter % 7 * 10).toString(16) + 
+                                "00";
+                                */
 
+                              console.log(color);
                               context.font = fontSize + "px Georgia";
 
                               context.save();
                               context.translate( position.x, position.y);
+                              context.fillStyle = color;
                               context.rotate( angle );
                               context.fillText(letter,0,0);
                               context.restore();
