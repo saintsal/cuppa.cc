@@ -128,6 +128,9 @@ span {
         font-size: 2em;
         background: #fff;
         padding: 30px 30px 60px 30px;
+        background: linear-gradient(-45deg, #52ee7710, #e73c7e18, #cad52310, #5223d510);
+        background-size: 400% 400%;
+        animation: gradient 30s ease infinite;
       }
       a#cta.highlight {
         background-color: #ffd18d7d;
@@ -145,6 +148,18 @@ span {
         height: 100%; 
       }
 
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
   </style>
 
   <title>Cuppa Protocol</title>
@@ -221,8 +236,8 @@ span {
                       if (d > stepSize) {
                               var angle = Math.atan2(mouse.y-position.y, mouse.x-position.x);
                               var color = `hsl(
-                                      ${Math.floor((3 * counter) % 255)},
-                                      50%, 20%
+                                      ${255 - Math.floor((1 * counter) % 255)},
+                                      50%, 30%
                                                       )`;
                                 /*
                                 "#" +(counter % 16 * 10).toString(16) + 
