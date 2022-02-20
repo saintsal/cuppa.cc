@@ -1,28 +1,52 @@
 # Litepaper
 
-## Personal note
-To be totally upfront, I originally thought of Cuppa as a little project I'd work on by myself.  
-
-Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
-
-My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'
-
-Like a lot of people, I really want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that's not what I want.  I want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
-
-So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
-
-So my hope is that this becomes ours, not mine, almost instantly, and as @meta_dreamer puts it so well: we decompose it like a mycellial network, and recompose it into something better.
-
-Starting with this document, which is open on github for anyone who wants to modify it.
-
 ----
 
 Warning: bad memes ahead. 
 ![](bad-at-memes.png)
 
 ---
+
 ## Our big opportunity
 We're at such a powerful point in time.  We have new forms of economic cooperation, and so many people in the world searching for a better way to work. We can make it so work is wonderful.
+
+So where does Cuppa come in?
+
+- It's here to develop and test some new and interesting primitives to help the DAO be joyful/humane.
+- It's a new kind of DAO, built a different way to create this kind of environment.
+- It creates a space for fun and less formal collaboration, a place where we can hack on ideas in teams, or just with peer support. 
+
+### A place to try things and find your way
+
+Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
+
+You can:
+
+- try different experiments and give feedback
+- join experiment teams to build and test prototypes
+- contribute to a fabric of caring and understanding
+
+We have 5-10 protocol concepts already, and will aim to reduce them to 1-2 builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. 
+
+Together we'll attract like-minded people, work out what concepts resonate, and learn as we go.
+
+Once we find the things that work, we'll double down on them, secure the protocol, call in for OG support, and this out there!
+
+
+## Personal note
+To be totally upfront, I originally thought of Cuppa as a little project I'd just work on by myself.  
+
+Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
+
+My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to a quieter, more monastic days.
+
+But like a lot of people, I really want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that's not what I want.  I want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
+
+So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
+
+So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/mkdocs/docs/litepaper.md))
+
+-- Salim
 
 !!! tip inline end "Inspiration"
 
@@ -41,9 +65,7 @@ How can we shift from overwork and fomo to calm, creative collaboration? What if
 Can we create environments where everyone has something wonderful to look forward to every day? 
 
 ![](pepe-eyes.png)
-## Some questions
-
-Here are some questions we've been talking about:
+## Questions
 
 - How can DAOs be more transparent and enable more agency?
 
@@ -71,7 +93,14 @@ Here are some questions we've been talking about:
 
 - Why can't work be more game-like? Can we decrease the stress and increase the fun?
 
-## Some inclinations
+## Some directions
+
+### Squadratic
+Focusing on small groups and teams, enabling them meritocratically with access to resources and agency.
+
+### Structure-agnostic
+Composing well any governance super-structures, or independently, as needed.
+
 
 ### Pipes not walls - autonomy through compostability
 "organic compositions that are emergent, letting people createa n infinite garden
@@ -86,11 +115,11 @@ https://www.youtube.com/watch?v=ysaIeVbSDCo
 - people quitting from not being heard
 - Possibility for cultural surplus
 
-
 ### 🎈 not 🚀
-Feel like you're floating in the current, rather than racing like a rocket. [And weeeee!](https://www.youtube.com/watch?v=BorQ_ULcvss)
+Feel like you're floating in the current, rather than racing like a rocket. [And weeeee!](https://www.youtube.com/watch?v=BorQ_ULcvss)  What kind of communication norms and tools lead to calm, peaceful collaboration?
 
 ### Compete for performance not resources
+Competition is natural.  Web3 is learning how to design incentives for cooperation, but at the same time DAOs are places where people compete for resources.  Can we redesign those incentives so competitive work is mutually beneficial and less harmful?
 
 ###  Motivation 
 Motivation and skill are the main factors of productivity.  But motivation is higher leverage.  It's easier to pump and motivated people build their skills up faster.
@@ -113,6 +142,12 @@ Subsidiarity is a principle of social organization that holds that social and po
 
 ## A cultural foundation
 
+!!! info inline end "References"
+    - [DAOistry]()
+    - [Hyperstructures]()
+    - [Squad wealth]()
+
+
 If you're going from point A to point B, make point A as close to point B as you can.
 
 Let's reflect on what DAOs could and should be, and start there.
@@ -120,15 +155,6 @@ Let's reflect on what DAOs could and should be, and start there.
 
 ### Deliberate acts of listening and giving
 We're here to support each other. 
-
-### Permissionless participation
-Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
-
-You can:
-
-- try different experiments and give feedback
-- join experiment teams to build and test prototypes
-- contribute to a fabric of caring and understanding
 
 ### Teams are ephemeral but autonomous. 
 
@@ -159,27 +185,9 @@ A few groups outside of web3 will be invited to participate:
 - meme makers
 - community convenors
 
-
 ### Fun, fast experiments
 
-## Mechanism design
-
-!!! info inline end "References"
-    - [DAOistry]()
-    - [Hyperstructures]()
-    - [Squad wealth]()
-
-
-Cuppa will be a protocol for decentralised collaboration. It aims to be **structure-agnostic and squadratic**, enabling people to collaborate within or outside of any super-structures like DAOs. 
-
-*[squadratic]: Focusing on small groups and teams, enabling them meritocratically with access to resources and agency.
-
-*[structure-agnostic]: Composing well any governance super-structures, or independently, as needed.
-
 We have ideas of what this protocol could look like, but to arrive at a viable "version 1" we need to try them, explore and adapt.  This requires wide experimentation because a successful protocol resonates on technical, social and economic levels.
-
-## Design principles
-To build this, Cuppa will experiment with new blockchain primitives for collaboration, focusing on:
 
 !!! check inline end "Experimentation" 
 
@@ -194,4 +202,5 @@ Cuppa experiments are characterised by particular attention to:
 - Holistic UX.  User experience isn't just the UI layer - it's part of the DNA of the project and should be reflected right down to the smart contract calls.
 - N-order effects on work culture and environment.  Every economic design has side effects, and we want to take responsibility for those by including them in our feedback loop.
 - Decentralisation-first. We prototype with on-chain primitives from the start.
+
 
