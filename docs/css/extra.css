@@ -1,0 +1,70 @@
+:root {
+  --md-text-font-family: "Helvetica";
+
+  --md-default-fg-color:              #111;
+  --md-default-fg-color--light:       #111;
+  --md-default-fg-color--lighter:       #111;
+  --md-default-bg-color:               #fff;
+  --md-default-bg-color--light:        #fff;
+  --md-default-bg-color--lighter:        #fff;
+
+  --md-primary-fg-color:               #18c953;
+  --md-primary-bg-color:               #fff;
+
+  --md-accent-fg-color:                #18c953;
+  --md-accent-fg-color--transparent:   #18c953;
+  --md-accent-bg-color:                #eee;
+}
+
+.md-tabs, .md-header {
+  background: inherit;
+  color: inherit;
+}
+
+.md-search__form:hover {
+  background-color: hsla(0,0%,0%,.4);
+}
+
+.hero {
+  align-items: stretch;
+  display: flex;
+  margin: 0 0.8rem ;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 61rem ;
+  flex-wrap: wrap;
+}
+.hero .image{
+  max-width: 38rem;
+  transform: translateX(-2rem);
+  padding: 0 2rem ;
+  flex-shrink: 1;
+  flex-grow: 1;
+  flex-basis: 10em;
+}
+.hero .content{
+  margin-top: 3.5rem ;
+  max-width: 19rem ;
+  padding-bottom: 14vw ;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex .block {
+  margin-right: 1rem;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 10rem;
+}
+
+.float-left {
+  float: left;
+  margin: 1em 1em 0 0 ;
+}
+
+img.float-left {
+  border-radius: 10px;
+}

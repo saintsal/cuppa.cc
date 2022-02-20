@@ -1,0 +1,40 @@
+site_name: Cuppa
+theme:
+  name: material
+  font: false
+  custom_dir: overrides
+  palette:
+    primary: brown
+  features:
+    - header.autohide
+    - navigation.top
+  plugins:
+    - search
+    - social:
+      cards_font: Oxygen
+  logo: /logo.svg
+  favicon: /logo.png
+extra:
+  analytics:
+      provider: custom
+      property: foobar
+extra_css:
+  - css/extra.css
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - pymdownx.snippets
+  - def_list
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+        alternate_style: true
+  - tables
+
+nav:
+- litepaper.md
+- "Stay in touch": https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR
