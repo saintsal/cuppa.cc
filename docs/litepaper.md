@@ -22,11 +22,13 @@ Imagine Cuppa like an ongoing hackathon, where you can join teams for a short pe
 
 You can:
 
-- try different experiments and give feedback
-- join experiment teams to build and test prototypes
+- check out what different hacking teams are making, play with the prototypes and help with feedback
+- run your own short experiments (with a few teammates if you'd like) 
 - contribute to a fabric of caring and understanding
+- hang out and have fun
+- make memes
 
-We have 5-10 protocol concepts already, and will aim to reduce them to 1-2 builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. 
+We have 5-10 protocol concepts already, and will aim to reduce them to 1-week builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. 
 
 Together we'll attract like-minded people, work out what concepts resonate, and learn as we go.
 
