@@ -16,8 +16,10 @@ So where does Cuppa come in?
 - It's a new kind of DAO, built a different way to create this kind of environment.
 - It creates a space for fun and less formal collaboration, a place where we can hack on ideas in teams, or just with peer support. 
 
-### A place to try things and find your way
 
+![](cuppa-ingredients.png)
+
+### A place to try things and find your way
 Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
 
 You can:
@@ -27,6 +29,26 @@ You can:
 - contribute to a fabric of caring and understanding
 - hang out and have fun
 - make memes
+
+
+??? check "Process process process...  🤖"
+
+    ---
+        1. welcome party for you 🎉
+        We meet you personally, and celebrate a new spirit in our midst
+
+        2. async ideas riff 👀
+        (relate, align, design, reduce)
+
+        3. start making sth for a week 🛠️
+        (team up if you want)
+
+        Everyone supports the buidlers! 🗨️🎈🤗 
+
+        4. learning party 🤔 📝
+
+        5. hang and 💗 
+
 
 We have 5-10 protocol concepts already, and will aim to reduce them to 1-week builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. 
 
