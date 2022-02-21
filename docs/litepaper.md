@@ -33,20 +33,21 @@ Together we'll attract like-minded people, work out what concepts resonate, and 
 Once we find the things that work, we'll double down on them, secure the protocol, call in for OG support, and this out there!
 
 
-## Personal note
-To be totally upfront, I originally thought of Cuppa as a little project I'd just work on by myself.  
+??? abstract "Personal note from Salim"
 
-Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
+    To be totally upfront, I originally thought of Cuppa as a little project I'd just work on by myself.  
 
-My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to a quieter, more monastic days.
+    Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
 
-But like a lot of people, I really want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that's not what I want.  I want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
+    My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to a quieter, more monastic days.
 
-So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
+    But like a lot of people, I really want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that's not what I want.  I want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
 
-So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/mkdocs/docs/litepaper.md))
+    So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
 
--- Salim
+    So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/mkdocs/docs/litepaper.md))
+
+    -- Salim
 
 !!! tip inline end "Inspiration"
 
@@ -93,53 +94,6 @@ Can we create environments where everyone has something wonderful to look forwar
 
 - Why can't work be more game-like? Can we decrease the stress and increase the fun?
 
-## Some directions
-
-### Squadratic
-Focusing on small groups and teams, enabling them meritocratically with access to resources and agency.
-
-### Structure-agnostic
-Composing well any governance super-structures, or independently, as needed.
-
-
-### Pipes not walls - autonomy through compostability
-"organic compositions that are emergent, letting people createa n infinite garden
-Auryn_macmillan - "pipethink"
-https://www.youtube.com/watch?v=FAXn33_H3bA
-
-### Cultural surplus and debt
-Bath McCarthy - technical debt, cultural debt 
-https://www.youtube.com/watch?v=ysaIeVbSDCo
-
-- people feeling the need to keep up 
-- people quitting from not being heard
-- Possibility for cultural surplus
-
-### 🎈 not 🚀
-Feel like you're floating in the current, rather than racing like a rocket. [And weeeee!](https://www.youtube.com/watch?v=BorQ_ULcvss)  What kind of communication norms and tools lead to calm, peaceful collaboration?
-
-### Compete for performance not resources
-Competition is natural.  Web3 is learning how to design incentives for cooperation, but at the same time DAOs are places where people compete for resources.  Can we redesign those incentives so competitive work is mutually beneficial and less harmful?
-
-###  Motivation 
-Motivation and skill are the main factors of productivity.  But motivation is higher leverage.  It's easier to pump and motivated people build their skills up faster.
-
-### Dialog
-Dialog is a foundational for governance and mutual understanding.  It's so powerful that often dialog results in such strong alignment that voting isn't necessary. But its usually overlooked when designing governance systems.
-
-
-### Transparency and logical decentralisation
-
->  Relationships are also the means by which we can understand the network within which they operate.
-
-There are no objective maps of decentralised work.  Way-finding is always relative to the individual, and depends on where you're looking from.  Transparency is needed to help people participate, not maps.
-
-
-### Subsidiarity and political decentralisation
-Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate level that is consistent with their resolution.
-
-
-
 ## A cultural foundation
 
 !!! info inline end "References"
@@ -180,6 +134,7 @@ This requires a self-awareness to shift our own communication impulses towards a
 ### Intersectional, and welcoming to non-web3 groups
 
 A few groups outside of web3 will be invited to participate:
+
 - UX and ethnography
 - dialog facilitators
 - meme makers
@@ -202,5 +157,36 @@ Cuppa experiments are characterised by particular attention to:
 - Holistic UX.  User experience isn't just the UI layer - it's part of the DNA of the project and should be reflected right down to the smart contract calls.
 - N-order effects on work culture and environment.  Every economic design has side effects, and we want to take responsibility for those by including them in our feedback loop.
 - Decentralisation-first. We prototype with on-chain primitives from the start.
+
+
+## Enabling constraints
+
+Embracing certain constraints can help us progress, like sticking your thumb on the end of a hose makes the water go faster.  Here are some to inspire new ways of thinking about DAOs and work in DAOs:
+
+- **Squadratic** - focusing on small groups and teams, enabling them meritocratically with access to resources and agency.
+
+- **Structure-agnostic** - Composing well any governance super-structures, or independently, as needed.
+
+-  **Pipes not walls** - defend autonomy by enabling inter-operability instead of blocking access.
+
+> "Organic compositions that are emergent, letting people createa n infinite garden"
+- [Auryn Macmillan](https://www.youtube.com/watch?v=FAXn33_H3bA_) (Gnosis)
+
+- **Cultural surplus and debt** - cultural debt (problems that get paid in terms of burnout, disengagement and stress) can invested into in such a way that they create cultural surpluses. - [Beth McCarthy](https://www.youtube.com/watch?v=ysaIeVbSDCo) - Toucan
+- **🎈 not 🚀** - Feel like you're floating in the current, rather than racing like a rocket. [And weeeee!](https://www.youtube.com/watch?v=BorQ_ULcvss)  What kind of communication norms and tools lead to calm, peaceful collaboration?
+
+- **Compete for performance not resources** - Competition is natural.  Web3 is learning how to design incentives for cooperation, but at the same time DAOs are places where people compete for resources.  Can we redesign those incentives so competitive work is mutually beneficial and less harmful?
+
+- **Motivation first** - Motivation and skill are the main factors of productivity.  But motivation is higher leverage.  It's easier to pump and motivated people build their skills up faster.
+
+- **Dialog as governance** - Dialog is a foundational for governance and mutual understanding.  It's so powerful that often dialog results in such strong alignment that voting isn't necessary. But its usually overlooked when designing governance systems.
+
+
+- **Plurality and logical decentralisation** - When you realise DAOs are a place for multiple perspectives to co-exist, you realise there can be no authorative top-down map.  Way-finding is always relative to the individual, and depends on where you're looking from.  Transparency is dependant on everyone's behaviour, not an authoritative body.
+
+>  Relationships are the means by which we can understand the network within which we operate.
+
+
+- **Subsidiarity and political decentralisation** - When one group makes decisions for everyone else, that's political centralisation.  Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate level that is consistent with their resolution. Autonomy from people making their own decisions.  Opt-in instead of impose-policy.
 
 
