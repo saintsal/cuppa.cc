@@ -12,14 +12,25 @@ We're at such a powerful point in time.  We have new forms of economic cooperati
 
 So where does Cuppa come in?
 
-- It's here to develop and test some new and interesting primitives to help the DAO be joyful/humane.
-- It's a new kind of DAO, built a different way to create this kind of environment.
-- It creates a space for fun and less formal collaboration, a place where we can hack on ideas in teams, or just with peer support. 
+- It's here to develop and test some new and interesting on-chain tools (called blockchain primitives by the cool kids) to help the DAO be joyful/humane.
+- We're also scratching our own itch.  So starting as new kind of group, built a different way to create this kind of environment.
+- It creates a space for fun and less formal collaboration, a place where we can hack on ideas in teams, or just with peer support. No fomo, no pressure.
 
 
+### Where we help each other 🤗
 ![](cuppa-ingredients.png)
+We're building new kinds of interactions between people.  One of the big ideas in doing this is designing [affordances](), meaning making something that people find intuitive. 
 
-### A place to try things and find your way
+The most technical aspect is wriring code and runing it on-chain. 
+
+The most human aspect is designing interactions that elevate human relationships and understanding. That's care.
+
+The most social aspect is communicating a concept that is resonant and attractive.  That's memes.
+
+Any concept we work on needs to be designed with all 3 in orchestration, bound by viable tokenomics and game theory.  When we succeed, our experiments will be communicated with memes that signal a purpose that draws people into more humane interactions with each other, consistent with the functionality exposed to each user in code. 
+
+
+### A place to try things and find your way 🧭
 Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
 
 You can:
@@ -31,7 +42,7 @@ You can:
 - make memes
 
 
-??? check "Process process process...  🤖"
+!!! check "Process process process...  🤖"
 
     ---
         1. welcome party for you 🎉
@@ -40,17 +51,15 @@ You can:
         2. async ideas riff 👀
         (relate, align, design, reduce)
 
-        3. start making sth for a week 🛠️
+        3. start making sth for a a day to a week 🛠️
         (team up if you want)
-
-        Everyone supports the buidlers! 🗨️🎈🤗 
 
         4. learning party 🤔 📝
 
         5. hang and 💗 
+        Everyone supports the buidlers! 🗨️🎈🤗 
 
-
-We have 5-10 protocol concepts already, and will aim to reduce them to 1-week builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. 
+We have 5-10 protocol concepts already, and will aim to reduce them to 1-day builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. So after getting these prototypes in the hands of users, observing and drawing conclusions, the overall experiments should take a week or so.
 
 Together we'll attract like-minded people, work out what concepts resonate, and learn as we go.
 
