@@ -20,7 +20,11 @@ The most human aspect is designing interactions that elevate human relationships
 
 The most social aspect is communicating a concept that is resonant and attractive.  That's memes.
 
-Any concept we work on needs to be designed with all 3 in orchestration, bound by viable tokenomics and game theory.  When we succeed, our experiments will be communicated with memes that signal a purpose that draws people into more humane interactions with each other, consistent with the functionality exposed to each user in code. 
+Any concept we work on needs to be designed with all 3 in orchestration, bound by viable tokenomics and game theory.  
+
+The memes make people go "yeah that!" And when they show up, their experience makes them go "yo! this!" and when they interact with the collab tools we make, they go "ofc! easy!"  The concept communicated in the meme echos in their personal expriences with us, and the code and user interfaces give them controls that are congruent with both. 
+
+That's the idea anyway. To really make this work, we all need to consider ourselves hackers, learning different skills from each other and trying stuff.
 
 
 ----
