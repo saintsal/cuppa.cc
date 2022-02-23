@@ -36,5 +36,5 @@ markdown_extensions:
   - tables
 
 nav:
-- litepaper.md
+- "Lifepaper": lifepaper.md
 - "Stay in touch": https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR

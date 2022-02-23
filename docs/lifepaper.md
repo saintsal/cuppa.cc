@@ -1,4 +1,7 @@
-# Litepaper
+# *Life*paper
+
+!!! info "This is a living paper, something that's meant to expose our current thinking to make it easier for you to see if you want to join us and help us  evolve. A lifepaper, get it?"
+
 
 ## Our big opportunity
 We're at such a powerful point in time.  We have new forms of economic cooperation, and so many people in the world searching for a better way to work. We can make it so work is wonderful.
@@ -47,7 +50,8 @@ You can:
 - make memes
 
 
-!!! check "Process process process...  🤖"
+!!! tip "When you see a bar with **>** you can open it. Try it here 👇"
+??? check "Process process process...  🤖"
 
     ---
         1. welcome party for you 🎉
