@@ -60,8 +60,8 @@ You can:
         2. async ideas riff 👀
         (relate, align, design, reduce)
 
-        3. start making sth for a a day to a week 🛠️
-        (team up if you want)
+        3. start making sth (for a day to a week) 🛠️
+        team up if you want
 
         4. learning party 🤔 📝
 
@@ -75,21 +75,24 @@ Together we'll attract like-minded people, work out what concepts resonate, and 
 Once we find the things that work, we'll double down on them, secure the protocol, call in for OG support, and this out there!
 
 
+!!! note "This document is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/main/docs/litepaper.md/edit)"
+
 ??? abstract "Personal note from Salim"
 
     To be totally upfront, I originally thought of Cuppa as a little project I'd just work on by myself.  
 
     Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
 
-    My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to a quieter, more monastic days.
+    My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to quieter, more monastic days.
 
-    But like a lot of people, I really want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that's not what I want.  I want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
+    I want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that pressure doesn't vibe.  I just want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
 
-    So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
+    So I realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
 
-    So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/main/docs/litepaper.md/edit))
+    My hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* 
 
     -- Salim
+
 
 !!! tip inline end "Inspiration"
 
