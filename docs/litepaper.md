@@ -131,6 +131,7 @@ Can we create environments where everyone has something wonderful to look forwar
 ## A cultural foundation
 
 !!! info inline end "References"
+    - [DisCO's If I only had a heart](http://disco.coop/manifesto/)
     - [DAOistry Mindsets](https://www.daoistry.com/mindsets)
     - [Hyperstructures](https://jacob.energy/hyperstructures.html)
     - [Squad wealth](https://otherinter.net/research/squad-wealth/)
