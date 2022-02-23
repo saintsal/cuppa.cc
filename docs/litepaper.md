@@ -1,12 +1,5 @@
 # Litepaper
 
-----
-
-Warning: bad memes ahead. 
-![](bad-at-memes.png)
-
----
-
 ## Our big opportunity
 We're at such a powerful point in time.  We have new forms of economic cooperation, and so many people in the world searching for a better way to work. We can make it so work is wonderful.
 
@@ -19,15 +12,23 @@ So where does Cuppa come in?
 
 ### Where we help each other 🤗
 ![](cuppa-ingredients.png)
-We're building new kinds of interactions between people.  One of the big ideas in doing this is designing [affordances](), meaning making something that people find intuitive. 
+We're building new kinds of interactions between people.  One of the big ideas in doing this is designing [affordances](https://www.daoistry.com/mindsets/blockchain-coordination/), meaning making something that people find intuitive. 
 
-The most technical aspect is wriring code and runing it on-chain. 
+The most technical aspect is writing code and running it on-chain. 
 
 The most human aspect is designing interactions that elevate human relationships and understanding. That's care.
 
 The most social aspect is communicating a concept that is resonant and attractive.  That's memes.
 
 Any concept we work on needs to be designed with all 3 in orchestration, bound by viable tokenomics and game theory.  When we succeed, our experiments will be communicated with memes that signal a purpose that draws people into more humane interactions with each other, consistent with the functionality exposed to each user in code. 
+
+
+----
+
+Warning: meme experiments ahead
+![](bad-at-memes.png)
+
+---
 
 
 ### A place to try things and find your way 🧭
@@ -78,17 +79,17 @@ Once we find the things that work, we'll double down on them, secure the protoco
 
     So I  realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
 
-    So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/mkdocs/docs/litepaper.md))
+    So my hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* (Starting with this document, which is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/main/docs/litepaper.md/edit))
 
     -- Salim
 
 !!! tip inline end "Inspiration"
 
-    - [The Yearn Handbook]()
-    - [The Valve Handbook]()
-    - [Twyla Tharp's The Creative Habit]()
-    - [Paul Graham's Makers / Managers Schedule]()
-    - [Basecamp's How We Work]()
+    - [The Blue Pill - Yearn](https://thebluepill.eth.limo/)
+    - [The Valve Handbook](https://archive.org/details/ValveEmployeeHandbook)
+    - [Twyla Tharp's The Creative Habit](https://www.simonandschuster.com/books/The-Creative-Habit/Twyla-Tharp/9780743235273)
+    - [Paul Graham's Makers / Managers Schedule](http://paulgraham.com/makersschedule.html)
+    - [Basecamp's How We Communicate](https://basecamp.com/guides/how-we-communicate)
 
 ### Delightful by default
 
@@ -130,9 +131,9 @@ Can we create environments where everyone has something wonderful to look forwar
 ## A cultural foundation
 
 !!! info inline end "References"
-    - [DAOistry]()
-    - [Hyperstructures]()
-    - [Squad wealth]()
+    - [DAOistry Mindsets](https://www.daoistry.com/mindsets)
+    - [Hyperstructures](https://jacob.energy/hyperstructures.html)
+    - [Squad wealth](https://otherinter.net/research/squad-wealth/)
 
 
 If you're going from point A to point B, make point A as close to point B as you can.
@@ -156,7 +157,7 @@ So the only way to grow is to literally welcome everyone in personally. To weave
     - UX and ethnography
     - dialog facilitators
     - meme makers
-    - community convenors
+    - community conveners
 
 ## Fun, fast experiments
 
