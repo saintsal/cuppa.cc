@@ -19,7 +19,7 @@ We're building new kinds of interactions between people.  One of the big ideas i
 
 The most technical aspect is writing code and running it on-chain. 
 
-The most human aspect is designing interactions that elevate human relationships and understanding. That's care.
+The most humane aspect is designing interactions that elevate personal relationships and understanding. That's care.
 
 The most social aspect is communicating a concept that is resonant and attractive.  That's memes.
 
