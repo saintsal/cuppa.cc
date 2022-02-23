@@ -1,6 +1,6 @@
 # *Life*paper
 
-!!! info "This is a living paper, something that's meant to expose our current thinking to make it easier for you to see if you want to join us and help us  evolve. A lifepaper, get it?"
+!!! info "This is a living paper, something that's meant to expose our current thinking to make it easier for you to see if you want to join us and help us evolve together. A lifepaper, get it?"
 
 
 ## Our big opportunity
@@ -172,7 +172,7 @@ So the only way to grow is to literally welcome everyone in personally. To weave
 
 We have ideas of what this protocol could look like, but to arrive at a viable "version 1" we need to try them, explore and adapt.  This requires wide experimentation because a successful protocol resonates on technical, social and economic levels.
 
-!!! check inline end "Experimentation" 
+??? check inline end "Experimentation with blockchains, you say?" 
 
     The nature of blockchains requires open experimentation.  
 
