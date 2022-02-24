@@ -20,7 +20,7 @@ hide:
 <div id="outro">
 <img src="logo.svg" class="logo">
 <p>With Cuppa, we can focus on doing, not coordinating.
-<p> <a href="/litepaper">📃 Read the litepaper</a>
+<p> <a href="/lifepaper">📃 Read the lifepaper</a>
 <br/> <a href="https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR">💬 Stay in touch</a>
 </div>
 <script type="text/javascript">
