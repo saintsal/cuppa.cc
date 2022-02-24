@@ -15,6 +15,11 @@ So where does Cuppa come in?
 
 ### Where we help each other 🤗
 ![](cuppa-ingredients.png)
+One of the big benefits with building little things together is how we can learn from each other. Doing together is usually a powerful way to learn.  So we can almost think of each experiment as a peer apprenticeship. No matter what your skill, or what expertise is available, we can learn by doing together.
+
+
+#### At cuppa, we focus on code, care and memes
+
 We're building new kinds of interactions between people.  One of the big ideas in doing this is designing [affordances](https://www.daoistry.com/mindsets/blockchain-coordination/), meaning making something that people find intuitive. 
 
 The most technical aspect is writing code and running it on-chain. 
@@ -41,6 +46,7 @@ Warning: meme experiments ahead
 ### A place to try things and find your way 🧭
 Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
 
+
 You can:
 
 - check out what different hacking teams are making, play with the prototypes and help with feedback
@@ -48,6 +54,7 @@ You can:
 - contribute to a fabric of caring and understanding
 - hang out and have fun
 - make memes
+
 
 
 !!! tip "When you see a bar with **>** you can open it. Try it here 👇"
