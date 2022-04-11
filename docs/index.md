@@ -236,7 +236,7 @@ z-index: -1;
 }
 
 .md-sidebar--primary  {
-z-index: 1;
+z-index: 10;
 }
 
 #outro {
