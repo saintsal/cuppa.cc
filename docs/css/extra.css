@@ -16,6 +16,10 @@
   --md-accent-bg-color:                #eee;
 }
 
+.md-typeset {
+  font-size: 2em;
+}
+
 .md-tabs, .md-header {
   background: inherit;
   color: inherit;

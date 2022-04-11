@@ -14,6 +14,12 @@ theme:
       cards_font: Oxygen
   logo: /logo.svg
   favicon: /logo.png
+nav:
+  - delightful.md
+  - welcoming.md
+  - safe-spaces.md
+  - pancakes.md
+  - "Subscribe ✉️": https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR
 extra:
   analytics:
       provider: custom
@@ -35,6 +41,3 @@ markdown_extensions:
         alternate_style: true
   - tables
 
-nav:
-- "Lifepaper": lifepaper.md
-- "Stay in touch": https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR

@@ -1,7 +1,5 @@
 ---
 hide:
-  - navigation
-  - toc
 
 ---
 # 
@@ -14,14 +12,11 @@ hide:
 <div id="intro">
 <img src="logo.svg" class="logo">
 <p>Cuppa is a protocol for decentralised collaboration.
-<p class="help">(Drag or swipe anywhere)
 </div>
 
 <div id="outro">
 <img src="logo.svg" class="logo">
 <p>With Cuppa, we can focus on doing, not coordinating.
-<p> <a href="/lifepaper">📃 Read the lifepaper</a>
-<br/> <a href="https://voice.msg.gdn/subscription?f=X9gz5JQ4LWEk5bfPAFHDI8MDP5UTBkJtgKdg1VqubPPsLJD6DDczFEUojIczI2XR">💬 Stay in touch</a>
 </div>
 <script type="text/javascript">
 
@@ -240,6 +235,9 @@ text-align: center;
 z-index: -1;
 }
 
+.md-sidebar--primary  {
+z-index: 1;
+}
 
 #outro {
 z-index: 1;

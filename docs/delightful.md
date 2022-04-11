@@ -1,7 +1,4 @@
-# *Life*paper
-
-!!! info "This is a living paper, something that's meant to expose our current thinking to make it easier for you to see if you want to join us and help us evolve together. A lifepaper, get it?"
-
+# Delightful by default 💖
 
 ## Our big opportunity
 We're at such a powerful point in time.  We have new forms of economic cooperation, and so many people in the world searching for a better way to work. We can make it so work is wonderful.
@@ -13,94 +10,6 @@ So where does Cuppa come in?
 - It creates a space for fun and less formal collaboration, a place where we can hack on ideas in teams, or just with peer support. No fomo, no pressure.
 
 
-### Where we help each other 🤗
-![](cuppa-ingredients.png)
-One of the big benefits with building little things together is how we can learn from each other. Doing together is usually a powerful way to learn.  So we can almost think of each experiment as a peer apprenticeship. No matter what your skill, or what expertise is available, we can learn by doing together.
-
-
-#### At cuppa, we focus on code, care and memes
-
-We're building new kinds of interactions between people.  One of the big ideas in doing this is designing [affordances](https://www.daoistry.com/mindsets/blockchain-coordination/), meaning making something that people find intuitive. 
-
-The most technical aspect is writing code and running it on-chain. 
-
-The most humane aspect is designing interactions that elevate personal relationships and understanding. That's care.
-
-The most social aspect is communicating a concept that is resonant and attractive.  That's memes.
-
-Any concept we work on needs to be designed with all 3 in orchestration, bound by viable tokenomics and game theory.  
-
-The memes make people go "yeah that!" And when they show up, their experience makes them go "yo! this!" and when they interact with the collab tools we make, they go "ofc! easy!"  The concept communicated in the meme echos in their personal expriences with us, and the code and user interfaces give them controls that are congruent with both. 
-
-That's the idea anyway. To really make this work, we all need to consider ourselves hackers, learning different skills from each other and trying stuff.
-
-
-----
-
-Warning: meme experiments ahead
-![](bad-at-memes.png)
-
----
-
-
-### A place to try things and find your way 🧭
-Imagine Cuppa like an ongoing hackathon, where you can join teams for a short period, or grab a table and get to work yourself, letting people contribute as you wish.
-
-
-You can:
-
-- check out what different hacking teams are making, play with the prototypes and help with feedback
-- run your own short experiments (with a few teammates if you'd like) 
-- contribute to a fabric of caring and understanding
-- hang out and have fun
-- make memes
-
-
-
-!!! tip "When you see a bar with **>** you can open it. Try it here 👇"
-??? check "Process process process...  🤖"
-
-    ---
-        1. welcome party for you 🎉
-        We meet you personally, and celebrate a new spirit in our midst
-
-        2. async ideas riff 👀
-        (relate, align, design, reduce)
-
-        3. start making sth (for a day to a week) 🛠️
-        team up if you want
-
-        4. learning party 🤔 📝
-
-        5. hang and 💗 
-        Everyone supports the buidlers! 🗨️🎈🤗 
-
-We have 5-10 protocol concepts already, and will aim to reduce them to 1-day builds in scaffold-eth (with help from other hackers) and joined by teammates who'll help with memes, facilitation and game format ideas, and just vibing. So after getting these prototypes in the hands of users, observing and drawing conclusions, the overall experiments should take a week or so.
-
-Together we'll attract like-minded people, work out what concepts resonate, and learn as we go.
-
-Once we find the things that work, we'll double down on them, secure the protocol, call in for OG support, and this out there!
-
-
-!!! note "This document is [open on github for anyone who wants to modify it.](https://github.com/saintsal/cuppa.cc/blob/main/docs/litepaper.md/edit)"
-
-??? abstract "Personal note from Salim"
-
-    To be totally upfront, I originally thought of Cuppa as a little project I'd just work on by myself.  
-
-    Because these days, I just like making little software projects that I think people will like.  I think of them more as art than a way to make money, and my happiest days are when I can just be creative without distractions.
-
-    My background is helping startups and engineers get their ideas off the ground.  I've been designing content and programs with some of the best, so feel confident in how to build products and run 'market experiments.'  But I left that world behind and am looking forward to quieter, more monastic days.
-
-    I want to make the most of Kernel so feel pressure to get on a serious team with a serious project and do serious things. But when I look within, that pressure doesn't vibe.  I just want to be in a wolfpack with other like-minded makers.  I want to make stuff and help my friends make stuff. And have fun!
-
-    So I realised that Cuppa isn't really a personal project.  It wants to be a place where we can more loosely align on a this problem space, an approach to experimentation, and a collaboration culture that is itself a microcosm of the better world we're trying to build.
-
-    My hope is that this becomes ours, not mine, almost instantly.  As @meta_dreamer puts it so well: *we decompose it like a mycellial network, and recompose it into something better.* 
-
-    -- Salim
-
-
 !!! tip inline end "Inspiration"
 
     - [The Blue Pill - Yearn](https://thebluepill.eth.limo/)
@@ -109,7 +18,6 @@ Once we find the things that work, we'll double down on them, secure the protoco
     - [Paul Graham's Makers / Managers Schedule](http://paulgraham.com/makersschedule.html)
     - [Basecamp's How We Communicate](https://basecamp.com/guides/how-we-communicate)
 
-### Delightful by default
 
 We have a chance to make work in DAOs *delightful by default.*
 
@@ -177,24 +85,6 @@ So the only way to grow is to literally welcome everyone in personally. To weave
     - dialog facilitators
     - meme makers
     - community conveners
-
-## Fun, fast experiments
-
-We have ideas of what this protocol could look like, but to arrive at a viable "version 1" we need to try them, explore and adapt.  This requires wide experimentation because a successful protocol resonates on technical, social and economic levels.
-
-??? check inline end "Experimentation with blockchains, you say?" 
-
-    The nature of blockchains requires open experimentation.  
-
-    The technical implementations benefit from open source because this allows for wide auditing and security. In terms of deployment, they are a type of Free Software, deployed as public good for anyone to access.
-
-    The flip side of this coin is how we as people interact such economic systems. So, the only true validation and generative learning comes from trying.  Putting the work out there, and having an open mind to how people react.
-
-Cuppa experiments are characterised by particular attention to:
-
-- Holistic UX.  User experience isn't just the UI layer - it's part of the DNA of the project and should be reflected right down to the smart contract calls.
-- N-order effects on work culture and environment.  Every economic design has side effects, and we want to take responsibility for those by including them in our feedback loop.
-- Decentralisation-first. We prototype with on-chain primitives from the start.
 
 
 ??? tip "Enabling constraints"
